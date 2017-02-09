@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My FirstApp</string>
+    <string name="txttitle">ป้ายจราจร (traffic sign)</string>
 </resources>
